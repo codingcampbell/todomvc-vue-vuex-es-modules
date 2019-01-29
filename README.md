@@ -15,6 +15,11 @@
 
 Built with native ES modules. No bundlers or compilers of any kind.
 
+# Getting Started
+
+1. Run `npm run vendor`
+2. Open index.html in your browser
+
 ## Credit
 
 Created by [Matt Campbell](https://mattcampbell.net/)

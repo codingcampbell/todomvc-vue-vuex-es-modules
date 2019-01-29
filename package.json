@@ -2,6 +2,10 @@
   "private": true,
   "dependencies": {
     "todomvc-app-css": "^2.0.0",
-    "todomvc-common": "^1.0.0"
+    "vue": "^2.5.22",
+    "vuex": "^3.1.0"
+  },
+  "scripts": {
+    "vendor": "npm install && node vendor.js"
   }
 }
